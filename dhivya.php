@@ -1,4 +1,5 @@
 <?php
-echo "Hello Dhivya";
+$a="Dharshini";
+echo "Hello Dhivya".$a;
 ?>
 
